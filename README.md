@@ -3,9 +3,13 @@
 Object Oriented Database Model
 
 A simple Course Manager which can perform CRUD (Create, Read, Update, Delete) and Sort operations on the course-related data at the institute.Staff using your tool can,
+
 a. Add a new course
+
 b. Modify an existing course
+
 c. Delete an existing course
+
 d. View the list of all existing courses
 
 The list of the courses, can be sorted in more ways than one, before being shown. There are two classes to meet these requirements. The Course class holds four pieces of information:
