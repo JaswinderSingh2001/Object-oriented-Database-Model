@@ -1,0 +1,12 @@
+add Computing Essentials|cs101|4|1
+add Mathematics Essentials|mth201|4|2
+add Temporary Course|temp401|4|8
+add Advanced Physics|phy301|4|3
+list all by name
+add Mathematics Essentials|mth201|6|2
+mod Mathematics Essentials|mth201|6|2
+del Temporary Course|temp402|4|8
+del Temporary Course|temp401|4|8
+list all
+list all by students
+list all by semester

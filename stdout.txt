@@ -1,0 +1,19 @@
+Added course: [Name=Computing Essentials, Number=cs101, Credits=4, Semester=1]
+Added course: [Name=Mathematics Essentials, Number=mth201, Credits=4, Semester=2]
+Added course: [Name=Temporary Course, Number=temp401, Credits=4, Semester=8]
+Added course: [Name=Advanced Physics, Number=phy301, Credits=4, Semester=3]
+Course list (sorted by name):
+[Name=Advanced Physics, Number=phy301, Credits=4, Semester=3]
+[Name=Computing Essentials, Number=cs101, Credits=4, Semester=1]
+[Name=Mathematics Essentials, Number=mth201, Credits=4, Semester=2]
+[Name=Temporary Course, Number=temp401, Credits=4, Semester=8]
+Problem: A course with number mth201 already exists
+Modified course: [Name=Mathematics Essentials, Number=mth201, Credits=6, Semester=2]
+Problem: No matching course found with number temp402
+Deleted course: [Name=Temporary Course, Number=temp401, Credits=4, Semester=8]
+Problem: A property for sorting the courses must be supplied
+Problem: Invalid property students supplied for sorting the courses
+Course list (sorted by semester):
+[Name=Computing Essentials, Number=cs101, Credits=4, Semester=1]
+[Name=Mathematics Essentials, Number=mth201, Credits=6, Semester=2]
+[Name=Advanced Physics, Number=phy301, Credits=4, Semester=3]
